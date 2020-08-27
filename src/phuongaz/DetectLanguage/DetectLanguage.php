@@ -1,6 +1,6 @@
 <?php
 
-namespace DetectLanguage;
+namespace phuongaz\DetectLanguage;
 
 
 if (!function_exists('json_decode')) {

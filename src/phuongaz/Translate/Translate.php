@@ -2,7 +2,7 @@
 
 namespace phuongaz\Translate;
 
-use DetectLanguage\DetectLanguage;
+use phuongaz\DetectLanguage\DetectLanguage;
 
 Class Translate{
 

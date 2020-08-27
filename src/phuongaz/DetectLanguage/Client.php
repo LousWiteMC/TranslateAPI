@@ -1,6 +1,6 @@
 <?php
 
-namespace DetectLanguage;
+namespace phuongaz\DetectLanguage;
 
 class Client
 {

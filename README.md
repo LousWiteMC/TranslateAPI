@@ -1,5 +1,5 @@
 # TranslateAPI
-Library translator for Pocketmine-MP
+Library translator
 
 # Example
 
